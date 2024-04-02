@@ -12,4 +12,4 @@ Was tested on Windows 11 using Matlab 2020b.</br>
 Running the scripts on newer versions of Matlab may require downloading additional packages.
 
 ## References
-Rachmian et al., Identification of senescent TREM2-expressing microglia in aging and Alzheimer’s disease model mouse brain, Nature neuroscience (2024), [https://doi.org/10.1016/j.cub.2021.07.062](https://doi.org/10.1038/s41593-024-01620-8)
+Rachmian et al., Identification of senescent TREM2-expressing microglia in aging and Alzheimer’s disease model mouse brain, Nature neuroscience (2024), DOI : 10.1038/s41593-024-01620-8
