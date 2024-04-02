@@ -14,8 +14,9 @@ clear;clc;
 warning('off');
 
 % define data and scripts paths
-data_path = 'C:\Users\noarac.WISMAIN\Desktop\trem2_nature_neuro_scripts\data\';
-scripts_path = 'C:\Users\noarac.WISMAIN\Desktop\trem2_nature_neuro_scripts\scripts\';
+repository_path = 'C:\Users\noarac.WISMAIN\Desktop\trem2_nature_neuro_scripts\';
+data_path = [repository_path,'data\'];
+scripts_path = [repository_path,'scripts\'];
 addpath(scripts_path) % add the scripts folder path into MATLAB paths to run scripts from a different directory
 
 % load color map
